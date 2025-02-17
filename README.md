@@ -33,7 +33,7 @@ Built with **HTML, CSS, and JavaScript**, the project includes:
 ### **🚀 Getting Started**  
 1. Clone the repository:  
    ```sh
-   https:https://github.com/AnkitKumar666/Food_Website
+   https://github.com/AnkitKumar666/Food_Website
    ```
 2. Open
    ```sh
