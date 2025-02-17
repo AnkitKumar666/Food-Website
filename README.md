@@ -33,9 +33,13 @@ Built with **HTML, CSS, and JavaScript**, the project includes:
 ### **🚀 Getting Started**  
 1. Clone the repository:  
    ```sh
-   git clone https:https://github.com/AnkitKumar666/Food_Website
+   https:https://github.com/AnkitKumar666/Food_Website
    ```
-2. Open `https://ankitkumar666.github.io/Food_Website/` in a browser.  
+2. Open
+   ```sh
+   https://ankitkumar666.github.io/Food_Website/
+   ```
+   in a browser.
 
 ### **🎨 Customization**  
 - Modify the color scheme in **style.css** (`:root` variables).  
