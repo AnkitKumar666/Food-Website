@@ -22,7 +22,15 @@ Built with **HTML, CSS, and JavaScript**, the project includes:
 ### **🔧 Technologies Used**  
 - **HTML5** – Structured semantic layout.  
 - **CSS3** – Styling, animations, and responsive design.  
-- **JavaScript (ES6)** – Interactive menu toggle and dynamic behavior.  
+- **JavaScript (ES6)** – Interactive menu toggle and dynamic behavior.
+
+## Live Demo
+
+[Food_website](https://ankitkumar666.github.io/Food_Website/)
+
+## Repository
+
+[GitHub Repository]( https://github.com/AnkitKumar666/Food_Website)
 
 ### **📸 Screenshots**  
 ![image alt](https://github.com/AnkitKumar666/Food_Website/blob/72db247eb0879c50f54ceee2e7f4ee8f6d28bc89/image/Screenshot-2.png)
