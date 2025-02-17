@@ -25,17 +25,17 @@ Built with **HTML, CSS, and JavaScript**, the project includes:
 - **JavaScript (ES6)** – Interactive menu toggle and dynamic behavior.  
 
 ### **📸 Screenshots**  
-![image alt](https://github.com/codewithAnky/Food_Website/blob/4bf87fa3eae30136e5ee43b5809344aee5e10a19/image/Screenshot-2.png)
-![image alt](https://github.com/codewithAnky/Food_Website/blob/4bf87fa3eae30136e5ee43b5809344aee5e10a19/image/Screenshot-1.png)
+![image alt](https://github.com/AnkitKumar666/Food_Website/blob/72db247eb0879c50f54ceee2e7f4ee8f6d28bc89/image/Screenshot-2.png)
+![image alt](https://github.com/AnkitKumar666/Food_Website/blob/72db247eb0879c50f54ceee2e7f4ee8f6d28bc89/image/Screenshot-1.png)
 
 
 
 ### **🚀 Getting Started**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/NomNom-Express.git
+   git clone https:https://github.com/AnkitKumar666/Food_Website
    ```
-2. Open `https://codewithanky.github.io/Food_Website/` in a browser.  
+2. Open `https://ankitkumar666.github.io/Food_Website/` in a browser.  
 
 ### **🎨 Customization**  
 - Modify the color scheme in **style.css** (`:root` variables).  
