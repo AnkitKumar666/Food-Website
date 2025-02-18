@@ -43,7 +43,7 @@ Built with **HTML, CSS, and JavaScript**, the project includes:
    ```sh
    https://github.com/AnkitKumar666/Food-Website
    ```
-2. Openin a browser:
+2. Open in the browser:
    ```sh
    https://ankitkumar666.github.io/Food-Website/
    ```
