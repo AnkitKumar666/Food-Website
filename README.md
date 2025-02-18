@@ -1,4 +1,4 @@
-# Food_Website
+# Food-Website
 ## **NomNom Express - Responsive Restaurant Website**  
 
 ### **📌 Project Description**  
@@ -26,26 +26,26 @@ Built with **HTML, CSS, and JavaScript**, the project includes:
 
 ## Live Demo
 
-[Food_website](https://ankitkumar666.github.io/Food_Website/)
+[Food_website](https://ankitkumar666.github.io/Food-Website/)
 
 ## Repository
 
-[GitHub Repository]( https://github.com/AnkitKumar666/Food_Website)
+[GitHub Repository]( https://github.com/AnkitKumar666/Food-Website)
 
 ### **📸 Screenshots**  
-![image alt](https://github.com/AnkitKumar666/Food_Website/blob/72db247eb0879c50f54ceee2e7f4ee8f6d28bc89/image/Screenshot-2.png)
-![image alt](https://github.com/AnkitKumar666/Food_Website/blob/72db247eb0879c50f54ceee2e7f4ee8f6d28bc89/image/Screenshot-1.png)
+![image alt](https://github.com/AnkitKumar666/Food-Website/blob/72db247eb0879c50f54ceee2e7f4ee8f6d28bc89/image/Screenshot-2.png)
+![image alt](https://github.com/AnkitKumar666/Food-Website/blob/72db247eb0879c50f54ceee2e7f4ee8f6d28bc89/image/Screenshot-1.png)
 
 
 
 ### **🚀 Getting Started**  
 1. Clone the repository:  
    ```sh
-   https://github.com/AnkitKumar666/Food_Website
+   https://github.com/AnkitKumar666/Food-Website
    ```
 2. Open
    ```sh
-   https://ankitkumar666.github.io/Food_Website/
+   https://ankitkumar666.github.io/Food-Website/
    ```
    in a browser.
 
