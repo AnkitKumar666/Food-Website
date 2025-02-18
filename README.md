@@ -43,11 +43,11 @@ Built with **HTML, CSS, and JavaScript**, the project includes:
    ```sh
    https://github.com/AnkitKumar666/Food-Website
    ```
-2. Open
+2. Openin a browser:
    ```sh
    https://ankitkumar666.github.io/Food-Website/
    ```
-   in a browser.
+   
 
 ### **🎨 Customization**  
 - Modify the color scheme in **style.css** (`:root` variables).  
